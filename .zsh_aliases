@@ -1,0 +1,33 @@
+#mome more ls aliases
+alias ls='ls -l --color=auto --group-directories-first -v'
+alias ll='ls -alF --color=auto --group-directories-first -v'
+alias la='ls -A --color=auto --group-directories-first -v'
+alias l='ls -CF --color=auto --group-directories-first -v'
+
+#git aliases
+alias gstatus='git status'
+alias gbranch='git branch'
+alias gbrancha='git branch -a'
+alias gbranchd='git branch -d'
+alias gbranchD='git branch -D'
+alias gdiff='git diff'
+alias gcout='git checkout'
+alias gcoutb='git checkout -b'
+alias gadd='git add'
+alias gcommit='git commit -m'
+alias gpush='git push'
+alias gpull='git pull'
+alias gfetch='git fetch'
+alias gfetcha='git fetch --all'
+alias gclone='git clone'
+
+## vim aliases
+alias bashconf='vim ~/.bashrc'
+alias sourcebash='source ~/.bashrc'
+alias zshconf='vim ~/.zshrc'
+alias sourcezsh='source ~/.zshrc'
+alias zshaliases='vim ~/.zsh_aliases'
+
+
+## clean terminal
+alias clr='clear'
