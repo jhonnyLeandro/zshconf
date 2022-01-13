@@ -1,3 +1,9 @@
+# install wsl
+If you are using a pc with windows please install wsl
+
+`wsl --install`
+
+
 # zsh file configuration
 
 Zsh default configuration file
