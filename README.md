@@ -1,5 +1,5 @@
 # install wsl
-If you are using a pc with windows please install wsl
+If you are using a pc with windows please install wsl, run cmd or powershell as administrator
 
 `wsl --install`
 
