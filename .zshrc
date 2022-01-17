@@ -19,7 +19,7 @@ fi
 
 
 ## enable zsh-syntax-highlighting
-source /home/jlme/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 ## enable zsh-autosuggestions
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
