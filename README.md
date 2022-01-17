@@ -27,8 +27,11 @@ convert ubuntu from wsl to wsl2
 run the following commands to install zsh
 
 `sudo apt-get update`
+
 `sudo apt-get upgrade`
+
 `sudo apt-get install zsh`
+
 `zsh`
 
 # zsh file configuration
