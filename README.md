@@ -47,9 +47,9 @@ Zsh default configuration file
 
 ## install plugins
 
-`install zsh-syntax-highlighting plugin`
+install zsh-syntax-highlighting plugin
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git  "$HOME/.zsh/zsh-syntax-highlighting"`
 
-`install /zsh-autosuggestions`
+install zsh-autosuggestions plugin
 `git clone https://github.com/zsh-users/zsh-autosuggestions.git  "$HOME/.zsh/zsh-autosuggestions"`
 
