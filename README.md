@@ -43,3 +43,13 @@ Zsh default configuration file
 ## Install pure prompt
 
 `git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"`
+
+
+## install plugins
+
+`install zsh-syntax-highlighting plugin`
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git  "$HOME/.zsh/zsh-syntax-highlighting"`
+
+`install /zsh-autosuggestions`
+`git clone https://github.com/zsh-users/zsh-autosuggestions.git  "$HOME/.zsh/zsh-autosuggestions"`
+
