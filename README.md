@@ -34,6 +34,8 @@ run the following commands to install zsh
 
 `zsh`
 
+`chsh -s $(which zsh)`
+
 # zsh file configuration
 
 Zsh default configuration file
