@@ -17,6 +17,9 @@
              . ~/.zsh_aliases
 fi
 
+# other way
+# test -f ~/.zsh_aliases && . ~/.zsh_aliases
+
 
 ## enable zsh-syntax-highlighting
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
